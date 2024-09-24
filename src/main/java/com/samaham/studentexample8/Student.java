@@ -1,10 +1,13 @@
 package com.samaham.studentexample8;
 
+// Date: 24 September
+
 public class Student {
     
     private String name;
     private int age;
     private String favClass;
+    
 
     public Student(String name) {
         this.name = name;
